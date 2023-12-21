@@ -20,10 +20,12 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+![Screenshot 2023-12-21 105749](https://github.com/lakshmankjolm/Correlation_Regression/assets/139963094/5d973146-fd78-4530-a683-26f531bbe0e7)
 
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
+
+# Output :
+![Screenshot 2023-12-21 105757](https://github.com/lakshmankjolm/Correlation_Regression/assets/139963094/01e25383-e1cd-471f-b64e-4401de02cd37)
 
 
 # Result
 
-# Output 
